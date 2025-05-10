@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.98.34380.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.370%0D%0AWhat%E2%80%99s%20the%20basic%20principle%20every%20successful%20business%20follows?%0D%0A%0D%0A"}')
